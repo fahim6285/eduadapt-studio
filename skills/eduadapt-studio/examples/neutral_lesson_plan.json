@@ -1,0 +1,32 @@
+{
+  "declared_scope": [
+    "Scope-A",
+    "Scope-B",
+    "Scope-C"
+  ],
+  "available_time": 6,
+  "time_unit": "sessions",
+  "lessons": [
+    {
+      "id": "Session-A",
+      "scope": [
+        "Scope-A"
+      ],
+      "time": 2
+    },
+    {
+      "id": "Session-B",
+      "scope": [
+        "Scope-B"
+      ],
+      "time": 2
+    },
+    {
+      "id": "Session-C",
+      "scope": [
+        "Scope-C"
+      ],
+      "time": 2
+    }
+  ]
+}

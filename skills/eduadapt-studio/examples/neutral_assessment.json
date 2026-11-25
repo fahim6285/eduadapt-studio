@@ -1,0 +1,74 @@
+{
+  "name": "Neutral practice assessment",
+  "expected_total_marks": 14,
+  "units": [
+    "Scope-A",
+    "Scope-B",
+    "Scope-C"
+  ],
+  "outcomes": [
+    "Outcome-A",
+    "Outcome-B"
+  ],
+  "sections": [
+    {
+      "id": "Section-A",
+      "items": [
+        {
+          "id": "Item-1",
+          "select_count": 1,
+          "options": [
+            {
+              "id": "Q-A",
+              "marks": 4,
+              "unit": "Scope-A",
+              "outcome": "Outcome-A"
+            },
+            {
+              "id": "Q-B",
+              "marks": 4,
+              "unit": "Scope-B",
+              "outcome": "Outcome-A"
+            }
+          ]
+        },
+        {
+          "id": "Item-2",
+          "select_count": 2,
+          "options": [
+            {
+              "id": "Q-C",
+              "marks": 3,
+              "unit": "Scope-A",
+              "outcome": "Outcome-B"
+            },
+            {
+              "id": "Q-D",
+              "marks": 3,
+              "unit": "Scope-B",
+              "outcome": "Outcome-B"
+            },
+            {
+              "id": "Q-E",
+              "marks": 3,
+              "unit": "Scope-C",
+              "outcome": "Outcome-B"
+            }
+          ]
+        },
+        {
+          "id": "Item-3",
+          "select_count": 1,
+          "options": [
+            {
+              "id": "Q-F",
+              "marks": 4,
+              "unit": "Scope-C",
+              "outcome": "Outcome-B"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EduAdapt Studio"
+abstract: "Template-neutral AI agent for teaching: turns syllabi into lesson plans, question banks, exam papers, marking keys and rubrics, with blueprint mapping and audit scripts."
+type: software
+version: 1.0.0
+date-released: 2026-11-26
+license: MIT
+authors:
+  - family-names: "Shaik"
+    given-names: "Fahim"
+repository-code: "https://github.com/fahim6285/eduadapt-studio"
+keywords:
+  - ai-agent
+  - agent-skill
+  - education
+  - assessment
+  - syllabus

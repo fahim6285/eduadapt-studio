@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "fahim shaik"
+  },
+  "description": "Institution-, subject-, and template-neutral teaching and examination preparation. Extract requirements from authorized syllabus and assessment templates; produce syllabus-aligned lessons, instructional resources, question banks, exam papers, marking keys, rubrics, blueprint mappings, and audited deliverables in the requested structures and formats.",
+  "interface": {
+    "capabilities": [],
+    "category": "Other",
+    "defaultPrompt": null,
+    "developerName": "fahim shaik",
+    "displayName": "eduadapt-studio",
+    "longDescription": "Institution-, subject-, and template-neutral teaching and examination preparation. Extract requirements from authorized syllabus and assessment templates; produce syllabus-aligned lessons, instructional resources, question banks, exam papers, marking keys, rubrics, blueprint mappings, and audited deliverables in the requested structures and formats.",
+    "shortDescription": "Institution-, subject-, and template-neutral teaching and examination preparation. Extract requirements from authorized syllabus and assessment templates; produce syllabus-aligned lessons, instructional resources, question banks, exam papers, marking keys, rubrics, blueprint mappings, and audited deliverables in the requested structures and formats."
+  },
+  "name": "eduadapt-studio",
+  "version": "1.0.0"
+}
